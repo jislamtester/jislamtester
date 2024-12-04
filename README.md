@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Jahidul Islam ✨
 
-<!--
-**jislamtester/jislamtester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub profile!** I'm a passionate **Test Automation Engineer** with over **10 years of experience**, specializing in ensuring high-quality software delivery across multiple domains, including automotive, insurance, and financial services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **What I Do**
+
+### **Test Automation Expertise**
+- **Web Automation:**
+  - Selenium with Java
+  - Playwright with TypeScript
+  - TestCafe
+- **Mobile Testing:**
+  - Appium
+- **API Testing:**
+  - Postman
+  - Rest Assured
+- **Performance Testing:**
+  - Load Runner
+  - JMeter
+- **Other Tools:**
+  - Tessigma
+
+### **Development & Cloud Skills**
+- **Cloud Platforms:**
+  - AWS and Azure Cloud Services
+- **Agile Practices:**
+  - Experienced in Agile software development lifecycle
+
+---
+
+## **Recent Projects**
+
+### ✅ **Automation Frameworks**
+- Designed and implemented robust automation frameworks using Selenium, Playwright, and TestCafe.
+- Built a mobile testing framework with Appium.
+
+### ✅ **API Testing Solutions**
+- Automated REST API validations with Postman collections and Rest Assured.
+
+### ✅ **Performance Testing**
+- Conducted load and stress testing with Load Runner and JMeter.
+
+### ✅ **Cloud Integrations**
+- Deployed automation frameworks on AWS and Azure environments.
+- Leveraged cloud services for scaling testing infrastructure.
+
+---
+
+## **What I’m Learning**
+- Advancing my expertise in **DevOps practices** and CI/CD pipelines.
+- Exploring **pen testing** tools to enhance security testing.
+- Strengthening my skills in **Azure cloud engineering.**
+
+---
+
+## **Fun Facts About Me**
+- I’m passionate about **learning and mentoring** in the test automation space.
+- I’m working on creating short, impactful tutorials for **QA Automators**, my YouTube channel for software testing.
+- I love experimenting with new tools and technologies to stay ahead of the curve.
+
+---
+
+## **Let’s Connect!**
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Email:** jahidul.islam@example.com
+- **GitHub:** You’re already here!
+
+Feel free to explore my repositories and reach out if you’d like to collaborate on an exciting project. Let’s automate the world together! ✨
+
+
