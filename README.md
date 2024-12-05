@@ -20,7 +20,8 @@
   - Load Runner
   - JMeter
 - **Other Tools:**
-  - Tessigma
+  - TestSigma
+  - TesCafe
 
 ### **Development & Cloud Skills**
 - **Cloud Platforms:**
