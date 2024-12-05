@@ -62,10 +62,10 @@
 - I love experimenting with new tools and technologies to stay ahead of the curve.
 
 ---
-
+gmail
 ## **Let’s Connect!**
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** jahidul.islam@example.com
+- **Email:** jislam.tester@.com
 - **GitHub:** You’re already here!
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on an exciting project. Let’s automate the world together! ✨
